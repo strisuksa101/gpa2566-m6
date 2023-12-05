@@ -7,8 +7,7 @@
 </head>
 <body style="padding:0px;margin:0px;width:100vw;height:100vh;background-color:#eee;">
 <iframe
-  id="app"
-src="https://script.google.com/a/macros/strisuksa.ac.th/s/AKfycbzdqT6W29tWFRPGzKgAOsh0uLgzzC3eQtO5781H-z2aaYr7fSbhv7GwJeRdf2vH8OEr/exec?page=M6"
+  id="app"src="https://script.google.com/a/macros/strisuksa.ac.th/s/AKfycbzdqT6W29tWFRPGzKgAOsh0uLgzzC3eQtO5781H-z2aaYr7fSbhv7GwJeRdf2vH8OEr/exec?page=M6"
 frameborder="0"
 scrolling="no"
 style="width: 100%; height: 100%">
